@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on My DH Blog</title>
+    
+    
+    
+    <link>https://evitahub.github.io/projects/</link>
+    <description>Recent content in Projects on My DH Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>@EvitaHUB 2020</copyright>
+    <lastBuildDate>Fri, 11 Dec 2020 01:26:01 +0200</lastBuildDate>
+    
+	<atom:link href="https://evitahub.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Maps</title>
+      <link>https://evitahub.github.io/projects/maps/</link>
+      <pubDate>Fri, 11 Dec 2020 01:26:01 +0200</pubDate>
+      
+      <guid>https://evitahub.github.io/projects/maps/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          ###Maps are for me!
+I hope this time the site will work and I can show some real projects. I like maps since early age and now both digital and paper maps. Historic, topographic, orthophoto and others. My favorite map source for Latvia history is (https://vesture.dodies.lv/) and second (https://www.lvmgeo.lv/kartes)
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>My Startup</title>
+      <link>https://evitahub.github.io/projects/startup/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://evitahub.github.io/projects/startup/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          template
+          
+        
+        </description>
+    </item>
+    
+  </channel>
+</rss>

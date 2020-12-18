@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My DH Blog</title>
+    
+    
+    
+    <link>https://evitahub.github.io/</link>
+    <description>Recent content on My DH Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>@EvitaHUB 2020</copyright>
+    <lastBuildDate>Wed, 16 Dec 2020 17:49:55 +0200</lastBuildDate>
+    
+	<atom:link href="https://evitahub.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About Minimal Computing</title>
+      <link>https://evitahub.github.io/post/minimal-computing/</link>
+      <pubDate>Wed, 16 Dec 2020 17:49:55 +0200</pubDate>
+      
+      <guid>https://evitahub.github.io/post/minimal-computing/</guid>
+      <description>
+        
+          &lt;img src=&#34;https://evitahub.github.io/img/david-van-dijk-3LTht2nxd34-unsplash.jpg&#34;/&gt;
+          
+        
+        
+        
+          idea of minimal computing
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>The one about Software Carpentry</title>
+      <link>https://evitahub.github.io/post/sw-carpentry/</link>
+      <pubDate>Fri, 11 Dec 2020 12:35:15 +0200</pubDate>
+      
+      <guid>https://evitahub.github.io/post/sw-carpentry/</guid>
+      <description>
+        
+          &lt;img src=&#34;https://evitahub.github.io/img/fotis-fotopoulos-DuHKoV44prg-unsplash.jpg&#34;/&gt;
+          
+        
+        
+        
+          Photo by Fotis Fotopouloson UnsplashGIT As part of the course we learned about using GIT tools to process data.
+Counting and mining the data is a place where to learn about using GIT Bash for data file management and Mining or searching.
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>The one about Markdown</title>
+      <link>https://evitahub.github.io/post/aboutmarkdown/</link>
+      <pubDate>Fri, 11 Dec 2020 11:04:00 +0200</pubDate>
+      
+      <guid>https://evitahub.github.io/post/aboutmarkdown/</guid>
+      <description>
+        
+          &lt;img src=&#34;https://evitahub.github.io/img/mrkdpic.jpg&#34;/&gt;
+          
+        
+        
+        
+          short about Markdown
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>Hello Me or the first post by me</title>
+      <link>https://evitahub.github.io/post/hello-me/</link>
+      <pubDate>Fri, 11 Dec 2020 02:46:45 +0200</pubDate>
+      
+      <guid>https://evitahub.github.io/post/hello-me/</guid>
+      <description>
+        
+          &lt;img src=&#34;https://evitahub.github.io/img/map.png&#34;/&gt;
+          
+        
+        
+        
+           draft post
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>My DH Favorites</title>
+      <link>https://evitahub.github.io/showcase/</link>
+      <pubDate>Fri, 11 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://evitahub.github.io/showcase/</guid>
+      <description>
+        
+          &lt;img src=&#34;https://evitahub.github.io/img/joshua-golde-qIu77BsFdds-unsplash.jpg&#34;/&gt;
+          
+        
+        
+        
+          Photo by Joshua Goldeon UnsplashLatvian Hillforts  My absolute favorite is one from Latvian citizen science. It is a map - guide - repository of publicly available data on Iron to Bronze age hillfort locations in Latvia. Project is called Latvijas Pilskalni or Hillforts of Latvia. It is made with lot of love and effort from few enthusiasts and used by many as valuable source of information. As hillfort locations often are in areas covered by forest and hard to notice, this resource has created 3D LIDAR based models of every hillfort.
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>Maps</title>
+      <link>https://evitahub.github.io/projects/maps/</link>
+      <pubDate>Fri, 11 Dec 2020 01:26:01 +0200</pubDate>
+      
+      <guid>https://evitahub.github.io/projects/maps/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          ###Maps are for me!
+I hope this time the site will work and I can show some real projects. I like maps since early age and now both digital and paper maps. Historic, topographic, orthophoto and others. My favorite map source for Latvia history is (https://vesture.dodies.lv/) and second (https://www.lvmgeo.lv/kartes)
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>My Startup</title>
+      <link>https://evitahub.github.io/projects/startup/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://evitahub.github.io/projects/startup/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          template
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>About the blog</title>
+      <link>https://evitahub.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://evitahub.github.io/about/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          DH stands for Digital Humanities :)
+Welcome! My name is Evita Rudovča, I love coffee, maps and hiking hillforts. These are my last weeks in the program Digital Humanities and I am enjoying it while it lasts.
+It is funny that in last semester of studies in Digital Humanities we finally have a course Intro to Digital Humanities.
+Its interesting and full of valuable information. Mostly for those who are used to process lot of text material, but not only that.
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>Archive</title>
+      <link>https://evitahub.github.io/archive/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://evitahub.github.io/archive/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          
+          
+        
+        </description>
+    </item>
+    
+  </channel>
+</rss>

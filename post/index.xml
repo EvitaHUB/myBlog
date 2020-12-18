@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My DH Blog</title>
+    
+    
+    
+    <link>https://evitahub.github.io/post/</link>
+    <description>Recent content in Posts on My DH Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>@EvitaHUB 2020</copyright>
+    <lastBuildDate>Wed, 16 Dec 2020 17:49:55 +0200</lastBuildDate>
+    
+	<atom:link href="https://evitahub.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About Minimal Computing</title>
+      <link>https://evitahub.github.io/post/minimal-computing/</link>
+      <pubDate>Wed, 16 Dec 2020 17:49:55 +0200</pubDate>
+      
+      <guid>https://evitahub.github.io/post/minimal-computing/</guid>
+      <description>
+        
+          &lt;img src=&#34;https://evitahub.github.io/img/david-van-dijk-3LTht2nxd34-unsplash.jpg&#34;/&gt;
+          
+        
+        
+        
+          idea of minimal computing
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>The one about Software Carpentry</title>
+      <link>https://evitahub.github.io/post/sw-carpentry/</link>
+      <pubDate>Fri, 11 Dec 2020 12:35:15 +0200</pubDate>
+      
+      <guid>https://evitahub.github.io/post/sw-carpentry/</guid>
+      <description>
+        
+          &lt;img src=&#34;https://evitahub.github.io/img/fotis-fotopoulos-DuHKoV44prg-unsplash.jpg&#34;/&gt;
+          
+        
+        
+        
+          Photo by Fotis Fotopouloson UnsplashGIT As part of the course we learned about using GIT tools to process data.
+Counting and mining the data is a place where to learn about using GIT Bash for data file management and Mining or searching.
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>The one about Markdown</title>
+      <link>https://evitahub.github.io/post/aboutmarkdown/</link>
+      <pubDate>Fri, 11 Dec 2020 11:04:00 +0200</pubDate>
+      
+      <guid>https://evitahub.github.io/post/aboutmarkdown/</guid>
+      <description>
+        
+          &lt;img src=&#34;https://evitahub.github.io/img/mrkdpic.jpg&#34;/&gt;
+          
+        
+        
+        
+          short about Markdown
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>Hello Me or the first post by me</title>
+      <link>https://evitahub.github.io/post/hello-me/</link>
+      <pubDate>Fri, 11 Dec 2020 02:46:45 +0200</pubDate>
+      
+      <guid>https://evitahub.github.io/post/hello-me/</guid>
+      <description>
+        
+          &lt;img src=&#34;https://evitahub.github.io/img/map.png&#34;/&gt;
+          
+        
+        
+        
+           draft post
+          
+        
+        </description>
+    </item>
+    
+  </channel>
+</rss>
