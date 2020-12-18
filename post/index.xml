@@ -10,10 +10,29 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>@EvitaHUB 2020</copyright>
-    <lastBuildDate>Wed, 16 Dec 2020 17:49:55 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 18 Dec 2020 14:54:01 +0200</lastBuildDate>
     
 	<atom:link href="https://evitahub.github.io/myBlog/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>About Minimal Computing</title>
+      <link>https://evitahub.github.io/myBlog/post/markup/</link>
+      <pubDate>Fri, 18 Dec 2020 14:54:01 +0200</pubDate>
+      
+      <guid>https://evitahub.github.io/myBlog/post/markup/</guid>
+      <description>
+        
+          &lt;img src=&#34;https://evitahub.github.io/myBlog/img/kelly-sikkema-LFGAatMUDvc-unsplash.jpg&#34;/&gt;
+          
+        
+        
+        
+          ...
+          
+        
+        </description>
+    </item>
     
     <item>
       <title>About Minimal Computing</title>

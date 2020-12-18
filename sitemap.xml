@@ -3,17 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://evitahub.github.io/myBlog/post/minimal-computing/</loc>
-    <lastmod>2020-12-16T17:49:55+02:00</lastmod>
+    <loc>https://evitahub.github.io/myBlog/post/markup/</loc>
+    <lastmod>2020-12-18T14:54:01+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://evitahub.github.io/myBlog/</loc>
-    <lastmod>2020-12-16T17:49:55+02:00</lastmod>
+    <lastmod>2020-12-18T14:54:01+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://evitahub.github.io/myBlog/post/</loc>
+    <lastmod>2020-12-18T14:54:01+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://evitahub.github.io/myBlog/post/minimal-computing/</loc>
     <lastmod>2020-12-16T17:49:55+02:00</lastmod>
   </url>
   
