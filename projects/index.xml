@@ -5,22 +5,22 @@
     
     
     
-    <link>https://evitahub.github.io/projects/</link>
+    <link>https://evitahub.github.io/myBlog/projects/</link>
     <description>Recent content in Projects on My DH Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>@EvitaHUB 2020</copyright>
     <lastBuildDate>Fri, 11 Dec 2020 01:26:01 +0200</lastBuildDate>
     
-	<atom:link href="https://evitahub.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://evitahub.github.io/myBlog/projects/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Maps</title>
-      <link>https://evitahub.github.io/projects/maps/</link>
+      <link>https://evitahub.github.io/myBlog/projects/maps/</link>
       <pubDate>Fri, 11 Dec 2020 01:26:01 +0200</pubDate>
       
-      <guid>https://evitahub.github.io/projects/maps/</guid>
+      <guid>https://evitahub.github.io/myBlog/projects/maps/</guid>
       <description>
         
           
@@ -38,10 +38,10 @@ I hope this time the site will work and I can show some real projects. I like ma
     
     <item>
       <title>My Startup</title>
-      <link>https://evitahub.github.io/projects/startup/</link>
+      <link>https://evitahub.github.io/myBlog/projects/startup/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://evitahub.github.io/projects/startup/</guid>
+      <guid>https://evitahub.github.io/myBlog/projects/startup/</guid>
       <description>
         
           

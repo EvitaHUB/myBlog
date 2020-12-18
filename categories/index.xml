@@ -5,13 +5,13 @@
     
     
     
-    <link>https://evitahub.github.io/categories/</link>
+    <link>https://evitahub.github.io/myBlog/categories/</link>
     <description>Recent content in Categories on My DH Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>@EvitaHUB 2020</copyright>
     
-	<atom:link href="https://evitahub.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://evitahub.github.io/myBlog/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

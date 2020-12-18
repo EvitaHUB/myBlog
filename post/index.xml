@@ -5,25 +5,25 @@
     
     
     
-    <link>https://evitahub.github.io/post/</link>
+    <link>https://evitahub.github.io/myBlog/post/</link>
     <description>Recent content in Posts on My DH Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>@EvitaHUB 2020</copyright>
     <lastBuildDate>Wed, 16 Dec 2020 17:49:55 +0200</lastBuildDate>
     
-	<atom:link href="https://evitahub.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://evitahub.github.io/myBlog/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About Minimal Computing</title>
-      <link>https://evitahub.github.io/post/minimal-computing/</link>
+      <link>https://evitahub.github.io/myBlog/post/minimal-computing/</link>
       <pubDate>Wed, 16 Dec 2020 17:49:55 +0200</pubDate>
       
-      <guid>https://evitahub.github.io/post/minimal-computing/</guid>
+      <guid>https://evitahub.github.io/myBlog/post/minimal-computing/</guid>
       <description>
         
-          &lt;img src=&#34;https://evitahub.github.io/img/david-van-dijk-3LTht2nxd34-unsplash.jpg&#34;/&gt;
+          &lt;img src=&#34;https://evitahub.github.io/myBlog/img/david-van-dijk-3LTht2nxd34-unsplash.jpg&#34;/&gt;
           
         
         
@@ -36,13 +36,13 @@
     
     <item>
       <title>The one about Software Carpentry</title>
-      <link>https://evitahub.github.io/post/sw-carpentry/</link>
+      <link>https://evitahub.github.io/myBlog/post/sw-carpentry/</link>
       <pubDate>Fri, 11 Dec 2020 12:35:15 +0200</pubDate>
       
-      <guid>https://evitahub.github.io/post/sw-carpentry/</guid>
+      <guid>https://evitahub.github.io/myBlog/post/sw-carpentry/</guid>
       <description>
         
-          &lt;img src=&#34;https://evitahub.github.io/img/fotis-fotopoulos-DuHKoV44prg-unsplash.jpg&#34;/&gt;
+          &lt;img src=&#34;https://evitahub.github.io/myBlog/img/fotis-fotopoulos-DuHKoV44prg-unsplash.jpg&#34;/&gt;
           
         
         
@@ -56,13 +56,13 @@ Counting and mining the data is a place where to learn about using GIT Bash for 
     
     <item>
       <title>The one about Markdown</title>
-      <link>https://evitahub.github.io/post/aboutmarkdown/</link>
+      <link>https://evitahub.github.io/myBlog/post/aboutmarkdown/</link>
       <pubDate>Fri, 11 Dec 2020 11:04:00 +0200</pubDate>
       
-      <guid>https://evitahub.github.io/post/aboutmarkdown/</guid>
+      <guid>https://evitahub.github.io/myBlog/post/aboutmarkdown/</guid>
       <description>
         
-          &lt;img src=&#34;https://evitahub.github.io/img/mrkdpic.jpg&#34;/&gt;
+          &lt;img src=&#34;https://evitahub.github.io/myBlog/img/mrkdpic.jpg&#34;/&gt;
           
         
         
@@ -75,13 +75,13 @@ Counting and mining the data is a place where to learn about using GIT Bash for 
     
     <item>
       <title>Hello Me or the first post by me</title>
-      <link>https://evitahub.github.io/post/hello-me/</link>
+      <link>https://evitahub.github.io/myBlog/post/hello-me/</link>
       <pubDate>Fri, 11 Dec 2020 02:46:45 +0200</pubDate>
       
-      <guid>https://evitahub.github.io/post/hello-me/</guid>
+      <guid>https://evitahub.github.io/myBlog/post/hello-me/</guid>
       <description>
         
-          &lt;img src=&#34;https://evitahub.github.io/img/map.png&#34;/&gt;
+          &lt;img src=&#34;https://evitahub.github.io/myBlog/img/map.png&#34;/&gt;
           
         
         
