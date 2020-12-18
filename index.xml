@@ -16,7 +16,7 @@
     
     
     <item>
-      <title>About Minimal Computing</title>
+      <title>Annotation with Recogito</title>
       <link>https://evitahub.github.io/myBlog/post/markup/</link>
       <pubDate>Fri, 18 Dec 2020 14:54:01 +0200</pubDate>
       
@@ -28,7 +28,7 @@
         
         
         
-          ...
+          exploring the tool
           
         
         </description>
@@ -42,7 +42,7 @@
       <guid>https://evitahub.github.io/myBlog/post/minimal-computing/</guid>
       <description>
         
-          &lt;img src=&#34;https://evitahub.github.io/myBlog/img/david-van-dijk-3LTht2nxd34-unsplash.jpg&#34;/&gt;
+          &lt;img src=&#34;https://evitahub.github.io/myBlog/img/sarah-dorweiler-x2Tmfd1-SgA-unsplash.jpg&#34;/&gt;
           
         
         
@@ -54,34 +54,14 @@
     </item>
     
     <item>
-      <title>The one about Software Carpentry</title>
-      <link>https://evitahub.github.io/myBlog/post/sw-carpentry/</link>
-      <pubDate>Fri, 11 Dec 2020 12:35:15 +0200</pubDate>
-      
-      <guid>https://evitahub.github.io/myBlog/post/sw-carpentry/</guid>
-      <description>
-        
-          &lt;img src=&#34;https://evitahub.github.io/myBlog/img/fotis-fotopoulos-DuHKoV44prg-unsplash.jpg&#34;/&gt;
-          
-        
-        
-        
-          Photo by Fotis Fotopouloson UnsplashGIT As part of the course we learned about using GIT tools to process data.
-Counting and mining the data is a place where to learn about using GIT Bash for data file management and Mining or searching.
-          
-        
-        </description>
-    </item>
-    
-    <item>
       <title>The one about Markdown</title>
-      <link>https://evitahub.github.io/myBlog/post/aboutmarkdown/</link>
+      <link>https://evitahub.github.io/myBlog/post/about-markdown/</link>
       <pubDate>Fri, 11 Dec 2020 11:04:00 +0200</pubDate>
       
-      <guid>https://evitahub.github.io/myBlog/post/aboutmarkdown/</guid>
+      <guid>https://evitahub.github.io/myBlog/post/about-markdown/</guid>
       <description>
         
-          &lt;img src=&#34;https://evitahub.github.io/myBlog/img/mrkdpic.jpg&#34;/&gt;
+          &lt;img src=&#34;https://evitahub.github.io/myBlog/img/TheDunciad.png&#34;/&gt;
           
         
         
@@ -93,19 +73,19 @@ Counting and mining the data is a place where to learn about using GIT Bash for 
     </item>
     
     <item>
-      <title>Hello Me or the first post by me</title>
+      <title>Hello friend! or the very first post</title>
       <link>https://evitahub.github.io/myBlog/post/hello-me/</link>
       <pubDate>Fri, 11 Dec 2020 02:46:45 +0200</pubDate>
       
       <guid>https://evitahub.github.io/myBlog/post/hello-me/</guid>
       <description>
         
-          &lt;img src=&#34;https://evitahub.github.io/myBlog/img/map.png&#34;/&gt;
+          &lt;img src=&#34;https://evitahub.github.io/myBlog/img/shatrijos-hillfort2018-evita-rudovica.jpg&#34;/&gt;
           
         
         
         
-           draft post
+           my very first post - nothing very specific
           
         
         </description>
@@ -124,7 +104,8 @@ Counting and mining the data is a place where to learn about using GIT Bash for 
         
         
         
-          Photo by Joshua Goldeon UnsplashLatvian Hillforts  My absolute favorite is one from Latvian citizen science. It is a map - guide - repository of publicly available data on Iron to Bronze age hillfort locations in Latvia. Project is called Latvijas Pilskalni or Hillforts of Latvia. It is made with lot of love and effort from few enthusiasts and used by many as valuable source of information. As hillfort locations often are in areas covered by forest and hard to notice, this resource has created 3D LIDAR based models of every hillfort.
+          Photo by Joshua Goldeon UnsplashHetre I would like to refer to my favorite DH web projects. I love history, so they probably will be about history related themes. And at the moment they are more about Latvian initiatives. So for the starter :
+Latvian Hillforts  My absolute favorite is one from Latvian citizen science. It is a map - guide - repository of publicly available data on Iron to Bronze age hillfort locations in Latvia.
           
         
         </description>
@@ -172,7 +153,7 @@ I hope this time the site will work and I can show some real projects. I like ma
     </item>
     
     <item>
-      <title>About the blog</title>
+      <title>About</title>
       <link>https://evitahub.github.io/myBlog/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -185,8 +166,7 @@ I hope this time the site will work and I can show some real projects. I like ma
         
         
         
-          DH stands for Digital Humanities :)
-Welcome! My name is Evita Rudovča, I love coffee, maps and hiking hillforts. These are my last weeks in the program Digital Humanities and I am enjoying it while it lasts.
+          Welcome! My name is Evita Rudovča, I love coffee, maps and hiking hillforts. These are my last weeks in the program Digital Humanities and I am enjoying it while it lasts.
 It is funny that in last semester of studies in Digital Humanities we finally have a course Intro to Digital Humanities.
 Its interesting and full of valuable information. Mostly for those who are used to process lot of text material, but not only that.
           
@@ -209,6 +189,29 @@ Its interesting and full of valuable information. Mostly for those who are used 
         
         
           
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>HEINRICI CHROINICOIN LYVONIAE.txt</title>
+      <link>https://evitahub.github.io/myBlog/projects/heinrici-chroinicin-lyvoniae/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://evitahub.github.io/myBlog/projects/heinrici-chroinicin-lyvoniae/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          HEINRICI CHROINICOIN LYVONIAE.
+LIBER PRIMUS.
+. Divina providencia, memor Raab1 et Babilonis2 ^^, (I.) videlicet confuse gentilitatis, nostris et modernis temporibus Lyvones3 ydolatras ab ydolatrie et peccatr sompno taliter igne sui amoris excitavit.
+Fuit vir vite venerabilis et venerande canicieip-) Meynardus4, sacerdos ex ordine beati Augustini, in cenobio Sigebergens5i^^ Hic simpliciter pro Christo et predicandi tantum causa cum comitatu mercato- rum Lyvonia6m venit^®. Theutonici enim mercatores, Lyvonibus famiiiaritate coniuncti, Lyvoniam7 fre- quenter navigio pier Dune8 flumen adire solebant.
           
         
         </description>

@@ -23,12 +23,7 @@
   </url>
   
   <url>
-    <loc>https://evitahub.github.io/myBlog/post/sw-carpentry/</loc>
-    <lastmod>2020-12-11T12:35:15+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://evitahub.github.io/myBlog/post/aboutmarkdown/</loc>
+    <loc>https://evitahub.github.io/myBlog/post/about-markdown/</loc>
     <lastmod>2020-12-11T11:04:00+02:00</lastmod>
   </url>
   
@@ -67,6 +62,10 @@
   
   <url>
     <loc>https://evitahub.github.io/myBlog/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://evitahub.github.io/myBlog/projects/heinrici-chroinicin-lyvoniae/</loc>
   </url>
   
   <url>

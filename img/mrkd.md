@@ -4,6 +4,7 @@ date: 2020-12-11T11:04:00+02:00
 draft: false
 description: "short about Markdown"
 cover: "img/mrkd.png"
+canonifyURLs: true
 ---
 
 ##Markdown
@@ -20,7 +21,24 @@ I would have loved to have all this info before our Big Data analysis course las
 Ok, I will not go in details and repeat how to use all formatting, just will add a [**Markdown cheat-sheat**](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf) for future use.
 
 
-Have a good day!
-Evita
+During the course Intro to Digital Humanities we had a task to markdown an image of text. Below you can see
+**the original image: **
+
+![TheDuncinad](/img/TheDunciad.png)
+
+**Transcription in Atom**
+![TheDuncinad](/img/TheDunciad-DillingeAtom.jpg)
+**Transcription in Atom**
+![TheDuncinad](/img/TheDunciad-Dillinger.png)
+
+**Transcription in Atom continued**
+
+![TheDuncinad](/img/TheDunciad-Dillinger2.jpg)
+
+and
+**the result:**
+
+
+
 
 [^1]: [Wikipedia about Markdown](https://en.wikipedia.org/wiki/Markdown)

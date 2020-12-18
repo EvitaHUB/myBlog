@@ -16,7 +16,7 @@
     
     
     <item>
-      <title>About Minimal Computing</title>
+      <title>Annotation with Recogito</title>
       <link>https://evitahub.github.io/myBlog/post/markup/</link>
       <pubDate>Fri, 18 Dec 2020 14:54:01 +0200</pubDate>
       
@@ -28,7 +28,7 @@
         
         
         
-          ...
+          exploring the tool
           
         
         </description>
@@ -42,7 +42,7 @@
       <guid>https://evitahub.github.io/myBlog/post/minimal-computing/</guid>
       <description>
         
-          &lt;img src=&#34;https://evitahub.github.io/myBlog/img/david-van-dijk-3LTht2nxd34-unsplash.jpg&#34;/&gt;
+          &lt;img src=&#34;https://evitahub.github.io/myBlog/img/sarah-dorweiler-x2Tmfd1-SgA-unsplash.jpg&#34;/&gt;
           
         
         
@@ -54,34 +54,14 @@
     </item>
     
     <item>
-      <title>The one about Software Carpentry</title>
-      <link>https://evitahub.github.io/myBlog/post/sw-carpentry/</link>
-      <pubDate>Fri, 11 Dec 2020 12:35:15 +0200</pubDate>
-      
-      <guid>https://evitahub.github.io/myBlog/post/sw-carpentry/</guid>
-      <description>
-        
-          &lt;img src=&#34;https://evitahub.github.io/myBlog/img/fotis-fotopoulos-DuHKoV44prg-unsplash.jpg&#34;/&gt;
-          
-        
-        
-        
-          Photo by Fotis Fotopouloson UnsplashGIT As part of the course we learned about using GIT tools to process data.
-Counting and mining the data is a place where to learn about using GIT Bash for data file management and Mining or searching.
-          
-        
-        </description>
-    </item>
-    
-    <item>
       <title>The one about Markdown</title>
-      <link>https://evitahub.github.io/myBlog/post/aboutmarkdown/</link>
+      <link>https://evitahub.github.io/myBlog/post/about-markdown/</link>
       <pubDate>Fri, 11 Dec 2020 11:04:00 +0200</pubDate>
       
-      <guid>https://evitahub.github.io/myBlog/post/aboutmarkdown/</guid>
+      <guid>https://evitahub.github.io/myBlog/post/about-markdown/</guid>
       <description>
         
-          &lt;img src=&#34;https://evitahub.github.io/myBlog/img/mrkdpic.jpg&#34;/&gt;
+          &lt;img src=&#34;https://evitahub.github.io/myBlog/img/TheDunciad.png&#34;/&gt;
           
         
         
@@ -93,19 +73,19 @@ Counting and mining the data is a place where to learn about using GIT Bash for 
     </item>
     
     <item>
-      <title>Hello Me or the first post by me</title>
+      <title>Hello friend! or the very first post</title>
       <link>https://evitahub.github.io/myBlog/post/hello-me/</link>
       <pubDate>Fri, 11 Dec 2020 02:46:45 +0200</pubDate>
       
       <guid>https://evitahub.github.io/myBlog/post/hello-me/</guid>
       <description>
         
-          &lt;img src=&#34;https://evitahub.github.io/myBlog/img/map.png&#34;/&gt;
+          &lt;img src=&#34;https://evitahub.github.io/myBlog/img/shatrijos-hillfort2018-evita-rudovica.jpg&#34;/&gt;
           
         
         
         
-           draft post
+           my very first post - nothing very specific
           
         
         </description>
